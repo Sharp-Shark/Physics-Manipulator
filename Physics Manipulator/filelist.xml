@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Physics Manipulator" modversion="1.0.0" corepackage="False" steamworkshopid="" gameversion="1.2.8.0">
+  <Submarine file="%ModDir%/sandbox.sub" />
+</contentpackage>
